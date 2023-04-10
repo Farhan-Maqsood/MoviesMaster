@@ -2,7 +2,7 @@
 //  SearchResultsTableViewCell.swift
 //  MovieMaster
 //
-//  Created by Abdul Rehman on 10/04/2023.
+//  Created by Farhan Maqsood on 10/04/2023.
 //
 
 import UIKit
