@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DBC8FFE5-7B62-48B6-AE58-8BD05C15C760"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0F29423-6D84-41B8-9E98-2A075EFA3C18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieMaster/View Models/HomeMoviesCollectionCellViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "posterUrl()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D0F29423-6D84-41B8-9E98-2A075EFA3C18 - c61512a7fb9cdc82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieMaster.HomeMoviesCollectionCellViewModel.posterUrl() -&gt; Foundation.URL"
+                  moduleName = "MovieMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrehman/Desktop/MovieMaster/MovieMaster/View%20Models/HomeMoviesCollectionCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "D0F29423-6D84-41B8-9E98-2A075EFA3C18 - c61512a7fb9cdc82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieMaster.HomeMoviesCollectionCellViewModel.posterUrl() -&gt; Foundation.URL"
+                  moduleName = "MovieMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrehman/Desktop/MovieMaster/MovieMaster/View%20Models/HomeMoviesCollectionCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "D0F29423-6D84-41B8-9E98-2A075EFA3C18 - c61512a7fb9cdc82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieMaster.HomeMoviesCollectionCellViewModel.posterUrl() -&gt; Foundation.URL"
+                  moduleName = "MovieMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrehman/Desktop/MovieMaster/MovieMaster/View%20Models/HomeMoviesCollectionCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "D0F29423-6D84-41B8-9E98-2A075EFA3C18 - c61512a7fb9cdc82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieMaster.HomeMoviesCollectionCellViewModel.posterUrl() -&gt; Foundation.URL"
+                  moduleName = "MovieMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrehman/Desktop/MovieMaster/MovieMaster/View%20Models/HomeMoviesCollectionCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87DDE184-EC35-4D93-B1F9-7BE5A770B4FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieMaster/Network/MoviesManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchMovies(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87DDE184-EC35-4D93-B1F9-7BE5A770B4FC - 3c7d0dd3c787eab1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MovieMaster.MoviesManager.fetchMovies(completion: (Swift.Result&lt;Swift.Array&lt;MovieMaster.Movie&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MovieMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrehman/Desktop/MovieMaster/MovieMaster/Network/MoviesManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "87DDE184-EC35-4D93-B1F9-7BE5A770B4FC - 3c7d0dd3c787eab1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MovieMaster.MoviesManager.fetchMovies(completion: (Swift.Result&lt;Swift.Array&lt;MovieMaster.Movie&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MovieMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrehman/Desktop/MovieMaster/MovieMaster/Network/MoviesManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "728">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33F4F276-5B2E-407A-A5A2-3E8D512C2042"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieMaster/View Models/HomeMoviesCollectionCellViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "releaseDate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "33F4F276-5B2E-407A-A5A2-3E8D512C2042 - 587feb913610836b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieMaster.HomeMoviesCollectionCellViewModel.releaseDate() -&gt; Swift.String"
+                  moduleName = "MovieMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrehman/Desktop/MovieMaster/MovieMaster/View%20Models/HomeMoviesCollectionCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "33F4F276-5B2E-407A-A5A2-3E8D512C2042 - 587feb913610836b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieMaster.HomeMoviesCollectionCellViewModel.releaseDate() -&gt; Swift.String"
+                  moduleName = "MovieMaster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrehman/Desktop/MovieMaster/MovieMaster/View%20Models/HomeMoviesCollectionCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
